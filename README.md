@@ -1,2 +1,2 @@
 # ReduxCounter
-Redux Counter App
+Simple Redux Counter App
